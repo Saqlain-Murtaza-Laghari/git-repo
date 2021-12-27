@@ -1,0 +1,2 @@
+git init: it initializes the Git Repository
+git status: it prints the status of the Git Repository
